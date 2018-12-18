@@ -1,0 +1,17 @@
+{
+  "name": "articles-list",
+  "version": "1.0.0",
+  "description": "Список статей",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/articles-list",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "pagination": "https://github.com/insales-components/pagination",
+    "article_preview": "https://github.com/insales-components/article_preview",
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
